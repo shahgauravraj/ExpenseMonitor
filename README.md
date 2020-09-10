@@ -1,16 +1,15 @@
 # ExpenseMonitor App
 
-This is my new Flutter Learning project where I aim to learn how we can make our app more attractive and user-friendly by making use of various widgets supported inside flutter.
+ExpenseMonitor is a modern mobile application build using Google Flutter UI toolkit which can help its users organize and monitor their weekly expenses on certain items. Users can easily add items and its price after making a purchase and at the end of every week they can take a closer look at the amount they've spent on each category of items.
 
-## Getting Started
+## What is this app for me?
+This is my new Flutter Learning project where I aim to learn how I can make this app more attractive and user-friendly by making use of various widgets supported by flutter.
 
-This project is a starting point for a Flutter application.
+### Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+A few resources that I've referred to get started with this Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [online documentation](https://flutter.dev/docs), which offers tutorials,
+    samples, guidance on mobile development, and a full API reference.
