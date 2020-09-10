@@ -1,6 +1,6 @@
-# ExpenseMonitor
+# ExpenseMonitor App
 
-A new Flutter project.
+This is my new Flutter Learning project where I aim to learn how we can make our app more attractive and user-friendly by making use of various widgets supported inside flutter.
 
 ## Getting Started
 
