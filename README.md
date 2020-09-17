@@ -1,6 +1,6 @@
 # ExpenseMonitor App
 
-![alt text](https://www.volumetree.com/wp-content/uploads/2019/11/How-Much-Mobile-App-Development-Cost-1.png)
+![alt text](https://raw.githubusercontent.com/shahgauravraj/ExpenseMonitor/master/assets/images/Web%201920%20%E2%80%93%201.png)
 
 ExpenseMonitor is a modern mobile application build using Google Flutter UI toolkit which can help its users organize and monitor their weekly expenses on certain items. Users can easily add items and its price after making a purchase and at the end of every week they can take a closer look at the amount they've spent on each category of items.
 
