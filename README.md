@@ -8,7 +8,7 @@ ExpenseMonitor is a modern mobile application build using Google Flutter UI tool
 This is my new Flutter Learning project where I aim to learn how I can make this app more attractive and user-friendly by making use of various widgets supported by flutter.
 
 ### Project Status
-The app is almost ready but final polishing is yet to be done.
+The app is almost ready but final polishing to make it fully responsive and adaptive is yet to be done.
 
 ### Getting Started
 
