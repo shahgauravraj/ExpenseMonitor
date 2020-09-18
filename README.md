@@ -14,6 +14,7 @@ The app is almost ready but final polishing is yet to be done.
 
 A few resources that I've referred to get started with this Flutter project:
 
+- [Video Tutorials](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [online documentation](https://flutter.dev/docs), which offers tutorials,
